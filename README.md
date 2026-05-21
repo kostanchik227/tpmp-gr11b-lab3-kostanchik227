@@ -21,7 +21,6 @@
 
 ## Branches
 - main
-- dev
 
 ## Build
 
